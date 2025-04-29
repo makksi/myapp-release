@@ -1,6 +1,6 @@
-## Changelog v26
+## Changelog v3
 
-- fixed CHANGELOG generation in case of no tag
+- fixed GV to Vgui
 
 ---
 

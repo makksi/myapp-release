@@ -1,14 +1,7 @@
-## Changelog v24
+## Changelog v25
 
-- Release 20 + changelog - Create README.md
 
----
-
-## Changelog v20
-
-- Create README.md
 
 ---
-
 
 

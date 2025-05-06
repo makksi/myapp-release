@@ -1,6 +1,6 @@
-## Changelog v3
+## Changelog v27
 
-- fixed GV to Vgui
+- Merge branch 'master' of https://github.com/makksi/GraphViz_UI
 
 ---
 

@@ -1,6 +1,6 @@
-## Changelog v27
+## Changelog v28
 
-- Merge branch 'master' of https://github.com/makksi/GraphViz_UI
+- Update build-exe.yml
 
 ---
 

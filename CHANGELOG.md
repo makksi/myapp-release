@@ -1,6 +1,6 @@
-## Changelog v4
+## Changelog v8
 
-- Update build-exe.yml
+- fixed bad header due to wrong pre-commit hook
 
 ---
 
